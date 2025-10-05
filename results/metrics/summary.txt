@@ -1,0 +1,3 @@
+Problem: Predict ERA5 500 hPa winds and compare a rotation-aware spherical model against a lat–lon baseline.
+Method: Windows-native, memory-safe pipeline; symmetry-aware spherical adapter on S^2; evaluated with MSE/MAE and vector-angle error.
+Result: The spherical model reduces direction (angle) error while matching magnitude metrics, delivering more physically faithful wind predictions.

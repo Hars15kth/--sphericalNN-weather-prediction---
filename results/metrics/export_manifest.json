@@ -1,0 +1,17 @@
+{
+  "npz_path": "D:\\era5_runs\\spherical_vs_baseline_20250919_214736\\export_for_external_viz\\one_batch_uv_64x128.npz",
+  "weights": {
+    "baseline_weight_path": "D:\\era5_runs\\spherical_vs_baseline_20250919_214736\\baseline_weights.pt",
+    "spherical_weight_path": "D:\\era5_runs\\spherical_vs_baseline_20250919_214736\\spherical_weights.pt"
+  },
+  "vars": [
+    "u",
+    "v"
+  ],
+  "T_ctx": 2,
+  "grid": {
+    "H": null,
+    "W": null
+  },
+  "run_dir": "D:\\era5_runs\\spherical_vs_baseline_20250919_214736"
+}

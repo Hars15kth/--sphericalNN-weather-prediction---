@@ -1,0 +1,9 @@
+{
+  "angle_deg_mean_baseline": 86.59882354736328,
+  "angle_deg_mean_spherical": 88.50642395019531,
+  "angle_reduction_percent": -2.2028017525996897,
+  "mse_u_pct_improvement": 11.760332759483243,
+  "mse_v_pct_improvement": -67.83927415236901,
+  "mae_u_pct_improvement": 4.314625149839113,
+  "mae_v_pct_improvement": -28.282478289303985
+}

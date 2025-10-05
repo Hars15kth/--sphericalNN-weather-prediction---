@@ -1,0 +1,11 @@
+{
+  "note": "Improvement maps: red = spherical better (lower absolute error), blue = baseline better.",
+  "u_imp_min_max": [
+    -2.21998929977417,
+    3.498561382293701
+  ],
+  "v_imp_min_max": [
+    -4.1689958572387695,
+    2.2645912170410156
+  ]
+}

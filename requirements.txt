@@ -1,0 +1,6 @@
+torch==2.1.0
+numpy==1.26.0
+xarray==2023.9.0
+cdsapi==0.6.1
+matplotlib==3.8.0
+e3nn==0.5.1
