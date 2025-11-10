@@ -1,6 +1,7 @@
 #  Spherical Weather Prediction
 
-This repository benchmarks baseline CNNs against SO(3)-equivariant spherical models for ERA5 500 hPa wind prediction. It is designed for reproducibility, robustness, and recruiter-grade clarity.
+This repository benchmarks baseline CNNs against SO(3)-equivariant spherical models for ERA5 500 hPa wind prediction. It is designed for reproducibility,While focused on climate modeling, the pipeline architecture and equivariant design principles are directly transferable to LLM infrastructure and RAG systems—especially in scenarios requiring spatial reasoning, rotation-aware embeddings, or robust cache generation across distributed inputs.
+ 
 
 ## ✅ Highlights
 
@@ -9,6 +10,9 @@ This repository benchmarks baseline CNNs against SO(3)-equivariant spherical mod
 - Baseline and spherical cache generation with atomic `.npy` saves
 - Visual comparison of wind fields and improvement heatmaps
 - Restrictive licensing for portfolio protection
+- Modular design patterns applicable to LLM pre-processing and RAG embedding pipelines
+
+
 
 ---
 
